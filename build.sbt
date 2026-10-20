@@ -14,6 +14,6 @@ lazy val root = project
       "org.typelevel" %% "cats-effect" % "3.7.1",
       "com.monovore" %% "decline-effect" % "2.6.1",
       "com.lihaoyi" %% "fansi" % "0.5.1",
-
+      "com.lihaoyi" %% "os-lib" % "0.11.7",
     )
   )
